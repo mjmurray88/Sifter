@@ -1,0 +1,10 @@
+## Interface: 50100
+## Version: @project-version@
+## Title: Sifter
+## Notes: Add lines to ore and gem tooltips that show prospecting sources/results.
+## Author: Starinnia
+##OptionalDeps: MobileVault
+## X-Email: codemaster2010 AT gmail DOT com
+
+Sifter.lua
+Sifter_Query.lua
