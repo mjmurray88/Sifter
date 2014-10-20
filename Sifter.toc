@@ -1,4 +1,4 @@
-## Interface: 50300
+## Interface: 60000
 ## Version: @project-version@
 ## Title: Sifter
 ## Notes: Add lines to ore and gem tooltips that show prospecting sources/results.
